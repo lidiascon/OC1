@@ -18,4 +18,4 @@ run;
 proc import datafile="&caminho./output/DM1.xlsx" dbms=xlsx 
     out=sicoob.produtos replace;
     sheet=produtos;
-run;
+run; 
