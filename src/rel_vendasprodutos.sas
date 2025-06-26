@@ -1,7 +1,7 @@
 /*
  *
  * Programa: rel_VendasProduto.sas
- * Autor: Reinaldo
+ * Autor: lidia
  * Data: 25/06/2025
  * Módulo: Relatórios
  * Versão: 1.00

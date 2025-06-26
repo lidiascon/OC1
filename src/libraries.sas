@@ -1,12 +1,12 @@
 /*
 *
 * Programa: libraries.sas
-* Autor: Reinaldo
-* Data: 24/06/2025
+* Autor: lidia
+* Data: 25/06/2025
 * Módulo: Geral
 * Versão: 1.00
 * 
 */
 
-libname sicoob base "&caminho_libs/Sicoob";
+libname sicoob base "&caminho_libs/sicoob";
 libname sicoobsp base "&caminho_libs/SicoobSP";

@@ -1,7 +1,7 @@
 /*
  *
  * Programa: clear_libs.sas
- * Autor: Reinaldo
+ * Autor: lidia
  * Data: 25/06/2025
  * Módulo: Geral
  * Versão: 1.00
